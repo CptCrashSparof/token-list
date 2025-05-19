@@ -184615,6 +184615,17 @@
       "tags": [
         "social-token"
       ]
+,
+{
+  "chainId": 101,
+  "address": "F77tYT9PH3ktUVT3dY2yGiJszdgDtNS1kRZa5VAoMxn",
+  "symbol": "DOUBLONE",
+  "name": "Doublone",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/CptCrashSparof/token-list/main/assets/mainnet/F77tYT9PH3ktUVT3dY2yGiJszdgDtNS1kRZa5VAoMxn/F77tYT9PH3ktUVT3dY2yGiJszdgDtNS1kRZa5VAoMxn.png",
+  "tags": ["meme", "pirate", "community"]
+}
+
     }
   ],
   "version": {
